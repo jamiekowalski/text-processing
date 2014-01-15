@@ -9,3 +9,5 @@ Dependencies: `textutil` (built into Mac OS X), [pandoc](http://johnmacfarlane.n
 The bash script runs the RTF file through `textutil` (to get HTML), a Ruby script, `post_html.rb` to modify the footnotes as represented in the HTML file, `pandoc` to get Markdown, and another Ruby script to correctly format the footnotes.
 
 Note that lists are not converted correctly by pandoc.
+
+Before using the bash script, modify the paths to point to the locations of the Ruby scripts.
