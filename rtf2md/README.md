@@ -1,4 +1,4 @@
-# pages_rtf2md
+# rtf2md
 
 Worried by the direction Apple's Pages is taking? Have Pages files that you'd like to convert to Markdown for safe-keeping? Do those files contain footnotes?
 
